@@ -1,4 +1,4 @@
-package Main;
+/*package Main;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -38,3 +38,4 @@ public class MyFrame extends JFrame{
 
 
 }
+*/
